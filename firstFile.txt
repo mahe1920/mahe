@@ -1,9 +1,12 @@
 I have started learning GIT
 
 Its very interesting..
-Mahesh Kumar
+
+Mahesh Kumar,
+Kishan Tumma
 Infosys Ltd.
-systems Engineer.
+Systems Engineer
+
 I Am Liking it.
 
 Its really awesome.
